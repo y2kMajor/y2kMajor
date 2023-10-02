@@ -13,6 +13,7 @@
   	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img"src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=black"/>
     <imgsrc="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
